@@ -2,14 +2,14 @@
 
 import math
 
-from optical.light import Ray
 from optical.light import Direction
-from optical.light import Position
-from optical.light import Plane
-from optical.light import Sphere
-from optical.light import SphericalTriangle
 from optical.light import FilterMonitor
 from optical.light import NullFilterMonitor
+from optical.light import Plane
+from optical.light import Position
+from optical.light import Ray
+from optical.light import Sphere
+from optical.light import SphericalTriangle
 from optical.light import WaveFront
 from optical.light import vector_dot_product
 
